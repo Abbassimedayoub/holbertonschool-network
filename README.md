@@ -114,6 +114,8 @@ The main difference between TCP and UDP lies in their connection-oriented versus
 
 # What is a port
 
+
+
 A port is a logical endpoint on a computer where network communication is directed. It allows multiple services or applications to operate simultaneously on the same device. Ports are identified by numbers, and they facilitate communication between different applications or services on a network.
 
 # Memorize SSH, HTTP, and HTTPS port numbers
